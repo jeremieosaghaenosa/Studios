@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bitbucketrequest",
+  "private_key_id": "67c1f0c00292b1cb248637314ee1c7d33ed08004",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDP2EA8h365ULLO\nZcVV+PcX9eJY1ZRxbdwdqWpe6smx2LPtKmoFegoNRg1RO+szZljvipAq+uYBajVt\nGZUzizwLeKYKTl0BQWAj2KGAYMUIXug+n5VFvNqTk8wAjQhN8/++TpFlCD7uyFF9\n38pM3fQYLcBMUm6J6UuPMRrrBxFzX42YGpbe+5l7iO/dr5QrL1YtpPrGoZqXZlXU\nOrG8owOQYFB6yOlVxMQopqIbalKaXtLSGAJSwtfvETUd9gP1vDs90Gomfh5ddPzX\nv/7fcv8ch8bvYTT4ZRiKmdhaY4rzxlLWL44H2F+cyjClWQQLocD3crYlOcQuACWB\njR+pu0lTAgMBAAECggEADeajHs+nhH8G0BJM1g8ssSGOd4dXwkf17NXwrO1IroH7\n2eTetzcOU3NX+KyCDCudAlUvunAr0FrPvL6oeyYMAghm5bf2aHSvsjYO6lmOhzZk\n+hGnF8VY9eQ9d9v24Wyffvu3DB02q4NVgygW86uOMJllJYJt4JnSpkt2ejmiy41K\nTh+NWc1lQFH2J9zSeW/tRCYdxEUJI6bdb4iwaEMO1mp+b6SjHWOi3phVEGImjDUp\nWgd1ZKHRcYRjGDZcvl6NkoSDUMpmiKP8vPzj5V/r05OlRP5SpFMlYkhKsqaOJqCk\nFM8PP9dBYi6zi/nSTkYN72Et6kaksiQ42MCGbz+DgQKBgQD9Wcf45UELzmd3nv4Y\neE3R9SkHWHn3b2Ui+znxXw52JPyNHva6ydwJA1Ws+EV6fELz/NBcCthQvBdep23D\nW4OX3vZ/OajtJENrJqPiuX6dbrp/4xT9uiq0N7MaVqa7rf5kDHvRtCAHA571qlWH\nl02qXxTaJ0RS7CiaFMNX+hZnUQKBgQDSBKaEYpqCaLns2sORqswxU/5upFS8rI9c\nzkXEGDoB6M/tAUcQYn3D2KRtIQpeE8zE8tsA637lMxpGbNJw00/o+SbbteD1nPEm\nW16vwb4cmokmxXECPmdtZfXS0l7lBgbaDSDJJZj4N2roT1El6pDFNkBk+LFtAZb8\nEOVNGJDFYwKBgQCheRmVLzjX94PGoBU/L14aFXFC90c1R1BkjU6O4pDrCAPXRgbn\nYkTVkcSHa+2MdaqOq3F5WIgqXNdgQsIYozkqELd2ux9JlbVKk+QcWzGx0aMYY3k7\nhe410tJaVSQLtofO6I36SB2pmssztI6yzuJ3VgaKTEClwVLXcahXaFPjIQKBgQCn\nJbpdfJiaF715y7aAtZ2j2MSTzEgAjZnf8+9EnT91i5QIfc7QNIMBnudmTziQHVQI\nn3w7pDGvOte7mxp1X0inE7ygeoWbFRg8PdYDLcAfxcJIUDWb4oywXciizHln7z7+\nxhoE3N59FqYIVDAybBhiTMY9Vkzng69l2BCXJmj6HwKBgB+oW5TjqRqzmgbzhF4R\nlsDYQ1z1R+VWM0UP2T2u9ZVv4Q+pua5DkqoNEheVRd6zvJ8uyylOPawCkcyGYIW3\nBKm8tSiWaIvlv4rnFYcdkO660L0r9Z/G977l+29TyMelPhcyUBPskPPRX+KZqrU3\nmo1MyFIh3sS9P3jBaFGQwOTs\n-----END PRIVATE KEY-----\n",
+  "client_email": "bitbucket@bitbucketrequest.iam.gserviceaccount.com",
+  "client_id": "104978440019407903034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bitbucket%40bitbucketrequest.iam.gserviceaccount.com"
+}
